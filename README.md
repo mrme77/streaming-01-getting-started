@@ -25,10 +25,10 @@ python -m pip install --upgrade pip wheel
 <br>
 The following modules are required:
 <br>
-| Module | Version |
-|---|---|
-|logging | 0.5.1.2 |
-| csv    | 1.0     |
+| Module  | Version  |
+|---------|----------|
+| logging | 0.5.1.2  |
+| csv     | 1.0      |
 <br>
 
 ## Execute Utility Script (Diagnostics)
