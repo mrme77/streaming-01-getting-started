@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-08-23 at 09:53 PM
+ Operating System: posix Darwin 22.6.0
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: x86_64
+ Python Version: 3.8.17
+ Python Build Date and Compiler: default with Jul  5 2023 16:07:30
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         /opt/anaconda3/bin/python
+ Path to virtual environment: /opt/anaconda3
+ Current Working Directory:   /Users/pasqualesalomone/Desktop/DataStreaming/module1/streaming-01-getting-started
+ Path to source directory:    /Users/pasqualesalomone/Desktop/DataStreaming/module1/streaming-01-getting-started
+ Path to script file:         util_about.py
+ User's Home Directory:       /Users/pasqualesalomone
+ Terminal Environment:        VS Code
+ Terminal Type:               zsh
+ Preferred command:           python3
+ Is python3 available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
