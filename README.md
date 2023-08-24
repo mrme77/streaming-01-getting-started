@@ -22,8 +22,9 @@ git --version
 python --version
 python -m pip install --upgrade pip wheel
 ```
-<br>
+
 The following modules are required:
+
 
 | Module  | Version  |
 |---------|----------|
